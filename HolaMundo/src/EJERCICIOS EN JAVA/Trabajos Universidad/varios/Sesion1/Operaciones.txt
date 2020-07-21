@@ -1,0 +1,30 @@
+import java.util.Scanner;
+class Operaciones{
+    static int Sum1,Sum2,Suma,Res1,Res2,Resta,Mult1,Mult2,Multiplicacion,Div1,Div2,Division;
+public static void main (String[]args){
+Scanner Entrada = new  Scanner (System.in);
+System.out.println("Digite primer numero");
+            Sum1= Entrada.nextInt();
+            Res1= Entrada.nextInt();
+            Mult1= Entrada.nextInt();
+            Div1= Entrada.nextInt();
+System.out.println("Digite segundo numero");
+Sum2= Entrada.nextInt();
+Res2= Entrada.nextInt();
+Mult2= Entrada.nextInt();
+Div2= Entrada.nextInt();
+Suma = Sum1+Sum2;
+Resta = Res1-Res2;
+        Multiplicacion = Mult1*Mult2;
+                Division = Div1/Div2;
+                        
+                
+System.out.println("El resultado de la suma es:"+Sum1+"+"+Sum2+"="+Suma);
+System.out.println("El resultado de la resta es:"+Res1+"-"+Res2+"="+Resta);
+System.out.println("El resultado de la multiplicacion es:"+Mult1+"*"+Mult2+"="+Multiplicacion);
+System.out.println("El resultado de la division es:"+Div1+"/"+Div2+"="+Division);
+}
+
+
+            
+}

@@ -1,0 +1,5 @@
+model\CAlumno.class
+servicio\ServicioWeb.class
+javaConection\ConexionMySQL.class
+persistenciaImpl\AlumnoDAO.class
+persistencia\ICRUD.class

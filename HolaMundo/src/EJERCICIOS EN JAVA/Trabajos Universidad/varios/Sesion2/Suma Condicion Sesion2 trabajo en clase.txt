@@ -1,0 +1,19 @@
+import java.util.Scanner;
+class SumaCondicion{
+    static int a,b,Suma,Opcion;
+public static void main (String[]args){
+Scanner Entrada = new  Scanner (System.in);
+do{
+    System.out.println("Este programa permite sumar dos numeros ingresados por el usuario,tantas veces como desee");
+System.out.println("Digite primer numero");
+            a = Entrada.nextInt();
+System.out.println("Digite segundo numero");
+b = Entrada.nextInt();
+Suma = a+b;
+System.out.println("El resultado de la suma es:"+a+"+"+b+"="+Suma);
+System.out.println("Desea Sumar Otro Resultado pulse 1 Si No Pulse 2 Para Cancelar");
+Opcion = Entrada.nextInt();
+}
+while(Opcion ==1);
+
+}

@@ -1,0 +1,1 @@
+cls para limpiar la consola cuando uno este codificandoy queremos limpiar pantalla 

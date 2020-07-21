@@ -1,0 +1,9 @@
+packservicio\package-info.class
+packservicio\ServicioWeb.class
+com\mycompany\clienteservicio\resources\JavaEE8Resource.class
+packservicio\ObjectFactory.class
+packservicio\ServicioWeb_Service.class
+MiServlet.class
+com\mycompany\clienteservicio\JAXRSConfiguration.class
+packservicio\SumaResponse.class
+packservicio\Suma.class

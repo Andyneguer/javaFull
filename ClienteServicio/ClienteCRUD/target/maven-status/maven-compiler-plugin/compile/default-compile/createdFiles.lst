@@ -1,0 +1,12 @@
+servicio\package-info.class
+com\mycompany\clientecrud\JAXRSConfiguration.class
+servicio\Agregar.class
+servicio\ObjectFactory.class
+servicio\ServicioWeb.class
+servicio\ServicioWeb_Service.class
+servicio\Persona.class
+modelo\PersonaService.class
+servicio\Listar.class
+servicio\ListarResponse.class
+com\mycompany\clientecrud\resources\JavaEE8Resource.class
+servicio\AgregarResponse.class

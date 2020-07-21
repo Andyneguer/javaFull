@@ -1,0 +1,14 @@
+import java.util.Scanner;
+class Datos
+public static void main (String[]args){
+    Scanner Entrada = new Scanner (System.in);
+    System.out.println("Kevin Esteban Duarte Mejia");
+    System.out.println("Tipo de documento: Tarjeta De Identidad ");
+            System.out.println ("Numero de documento: 96042105446");
+                    System.out.println ("Fecha de nacimiento: 21-ABRIL-1996 - Edad: 17");
+                    System.out.println ("Estado civil: Soltero");
+                    System.out.println ("Factor RH: O+");
+                    
+            
+         
+}

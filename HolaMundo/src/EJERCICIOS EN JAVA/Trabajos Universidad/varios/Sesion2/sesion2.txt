@@ -1,0 +1,12 @@
+ciclos permiten q los programas se ejecuten mas de una vez.
+dos tipos de ciclos
+white:while( define la condicion)
+do white:(haga)do{
+for:
+poder iterar se le nombra a un programa q se ejecuta mas de una vez...
+
+
+
+1)elabore un programa q permita sumar restar multiplicar y dividir los dos mismos numeros tantas veces como el usuruario lo desee
+2)elabore un programa q permita sumar restar multiplicar y dividir dos numeros diferentes tantas veces como el usuario lo desee
+''Este programa permite sumar dos numeros diferentes tantas veces como desee el usuario''
